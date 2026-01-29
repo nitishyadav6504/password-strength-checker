@@ -22,12 +22,13 @@ A simple Python CLI tool to check the strength of a password based on length and
 git clone https://github.com/nitishyadav6504/password-strength-checker.git
 cd password-strength-checker
 
----
-
-## Usage
-
-```bash
+Usage
 python password_checker.py
 
----
+
 Enter a password when prompted, and the tool will display its strength.
+
+Example:
+
+Enter your password: MyP@ssw0rd
+Password Strength: Strong
